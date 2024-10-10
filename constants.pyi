@@ -1,0 +1,3 @@
+MEDIA_JSON: str
+MEDIA_TEXT: str
+MEDIA_YAML: str
